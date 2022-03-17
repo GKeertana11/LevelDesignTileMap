@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Platform
+  - Gem
+  - Cherry
+  - Enemey
   layers:
   - Default
   - TransparentFX
@@ -44,6 +48,9 @@ TagManager:
   - name: Background
     uniqueID: 1942182359
     locked: 0
+  - name: Bush
+    uniqueID: 3188214667
+    locked: 0
   - name: ForeGround
     uniqueID: 2211560177
     locked: 0
@@ -52,4 +59,7 @@ TagManager:
     locked: 0
   - name: Player
     uniqueID: 3678625611
+    locked: 0
+  - name: Canvas
+    uniqueID: 2254396733
     locked: 0
